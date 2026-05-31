@@ -4,6 +4,8 @@
 
 A pixel-perfect implementation of a brutalist industrial studio website built for the Design2Code challenge.
 
+🔗 **[Live Demo](https://fabrik-design2code.vercel.app)**
+
 ## Stack
 
 - React · TypeScript · Vite · TailwindCSS · GSAP
